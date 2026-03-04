@@ -11,5 +11,7 @@
 2. **공간 분석**: `Folium` 라이브러리를 활용하여 유동인구 밀집 지역 시각화
 3. **대시보드 제작**: `Tableau`를 활용하여 산업별 판매량 추이 시각화
 
-## 분석 결과물
+## 결과물
+- **아이디어 제안서** : https://github.com/Gaeul5/Data-Safety-Zone-Project/blob/0acded5f823384861bce85d7efec1cb23acb9d02/idea%20proposal.pdf
+  
 
