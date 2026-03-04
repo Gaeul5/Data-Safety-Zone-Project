@@ -1,9 +1,8 @@
-# 광주광역시 유동인구 및 산업별 판매량 분석
-**Gwangju Floating Population & Sales Data Analysis Project**
+# 지역 특성 기반 상권 및 공공시설 입지 최적화 솔루션 제시
+**Region-Specific Commercial & Public Facility Location Optimization Solution**
 
 ## 프로젝트 소개
-- **행사명**: 데이터안심구역 경진대회
-- **목적**: 광주광역시의 유동인구 데이터와 산업별 판매 데이터를 결합하여 지역 경제 흐름 분석
+- **목적**: 빈집 활용을 통한 지역 경제 활성화
 - **사용 기술**: Python (Pandas, Matplotlib, Folium), Tableau
 
 ## 주요 작업 내용
