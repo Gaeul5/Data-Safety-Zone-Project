@@ -1,2 +1,15 @@
-# Data-Safety-Zone-Project
-2024 데이터안심구역 활용 공동 경진대회
+# 광주광역시 유동인구 및 산업별 판매량 분석
+**Gwangju Floating Population & Sales Data Analysis Project**
+
+## 프로젝트 소개
+- **행사명**: 데이터안심구역 경진대회
+- **목적**: 광주광역시의 유동인구 데이터와 산업별 판매 데이터를 결합하여 지역 경제 흐름 분석
+- **사용 기술**: Python (Pandas, Matplotlib, Folium), Tableau
+
+## 주요 작업 내용
+1. **데이터 전처리**: CSV 데이터를 활용한 월별/지역별 데이터 정제
+2. **공간 분석**: `Folium` 라이브러리를 활용하여 유동인구 밀집 지역 시각화
+3. **대시보드 제작**: `Tableau`를 활용하여 산업별 판매량 추이 시각화
+
+## 분석 결과물
+
