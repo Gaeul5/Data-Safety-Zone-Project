@@ -13,5 +13,5 @@
 
 ## 결과물
 - **아이디어 제안서** : https://github.com/Gaeul5/Data-Safety-Zone-Project/blob/0acded5f823384861bce85d7efec1cb23acb9d02/idea%20proposal.pdf
-  
+- **발표 자료** : https://github.com/Gaeul5/Data-Safety-Zone-Project/blob/2c5265dd7228c90e02ffa265a7c6cb5eeaafa9cc/submit/presentation.pdf
 
